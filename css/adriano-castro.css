@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+body {
+    overflow: hidden;
+}
+
+.bg-adriano-castro {
+    background: linear-gradient(to bottom left, #40407a, #706fd3);
+    height: 100vh;
+}
+
+.mt-n4 {
+    margin-top: -1.5rem;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Fredoka One', cursive;
+}
