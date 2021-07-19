@@ -12,3 +12,5 @@ Este reposítorio tem como finalidade a apresentação dos recrusos do GtiHub e 
 14/06 - Inciaremos a criação do nosso portfólio digital, para apresentação do nosso trabalho.
 
 14/06 - Criação da index do projeto.
+
+19/07 - Retomada das aulas com uma pequena melhoria no CSS do projeto.
