@@ -4,7 +4,7 @@ body {
 }
 
 .bg-adriano-castro {
-    background: linear-gradient(to bottom left, #40407a, #706fd3);
+    background: linear-gradient(to bottom left, #74b9ff, #6c5ce7);
     height: 100vh;
 }
 
@@ -19,4 +19,14 @@ h4,
 h5,
 h6 {
     font-family: 'Fredoka One', cursive;
+}
+
+#content {
+    margin-top: 25% !important;
+}
+
+@media (max-width: 575.98px) {
+    #content {
+        margin-top: 0 !important;
+    }
 }
