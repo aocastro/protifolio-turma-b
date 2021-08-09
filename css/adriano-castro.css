@@ -6,6 +6,19 @@ body {
 .bg-adriano-castro {
     background: linear-gradient(to bottom left, #74b9ff, #6c5ce7);
     height: 100vh;
+    color: #fff;
+}
+
+.bg-light {
+    background: linear-gradient(to bottom left, #bdc3c7, #bdc3c7);
+    height: 100vh;
+    color: #000;
+}
+
+.bg-dark {
+    background: #2d3436;
+    height: 100vh;
+    color: #fff;
 }
 
 .mt-n4 {
